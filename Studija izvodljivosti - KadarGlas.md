@@ -287,7 +287,7 @@ Sledeći korak je odobrenje Nacrta projekta, koji je priložen uz ovu studiju.
 
 ## Izvori
 
-Tržišni podaci i cenovnici preuzeti su 13.11.2026.
+Tržišni podaci i cenovnici preuzeti su zaključno sa 10.11.2026.
 
 - [Vidpros: statistika softvera za video montažu 2026](https://vidpros.com/video-editing-software-statistics/), prenosi procenu Mordor Intelligence
 - [360iResearch: Live Streaming Software Market, prognoza 2026–2032](https://www.giiresearch.com/report/ires2012198-live-streaming-software-market-by-component.html)

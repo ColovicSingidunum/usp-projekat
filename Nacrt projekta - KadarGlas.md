@@ -269,10 +269,6 @@ Projekat traje od 13.11.2026. do 26.11.2027. Javno lansiranje je 29.10.2027, a p
 
 ## 14. MENADŽER PROJEKTA
 
-[upisati ime i prezime], suosnivač i direktor NovaKadar d.o.o., zadužen za poslovanje, angažovan puno radno vreme tokom celog projekta.
+**Jovan Stoiljković**, suosnivač i direktor *NovaKadar d.o.o.*, zadužen za poslovanje, angažovan puno radno vreme tokom celog projekta.
 
 Menadžer projekta odgovara upravnom odboru projekta, koji čine osnivači i predstavnik investitora, za rok, budžet i obim. Vodi tim od četiri osnivača, koji do lansiranja raste na osam članova.
-
-nadležni rukovodilac
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
