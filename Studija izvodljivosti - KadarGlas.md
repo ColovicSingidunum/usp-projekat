@@ -2,15 +2,15 @@
 
 AI glasovni asistent za video montažu i striming uživo
 
-NovaKadar d.o.o., Beograd, 10.11.2026.
+NovaKadar d.o.o., Beograd, 13.11.2026.
 
 ## Sažetak
 
-Predlažemo da se projekat pokrene, uz kontrolnu tačku posle prve faze. Ulaganje od 321.200 EUR trebalo bi da se vrati za oko 26 meseci od lansiranja, a neto sadašnja vrednost (NPV) za tri godine iznosi oko 349.200 EUR.
+Predlažemo da se projekat pokrene, uz kontrolnu tačku posle prve faze. Ulaganje od 321.200 € trebalo bi da se vrati za oko 26 meseci od lansiranja, a neto sadašnja vrednost (NPV) za tri godine iznosi oko 349.200 €.
 
-NovaKadar d.o.o. je novootvoreni startup iz Beograda sa četiri osnivača: dva programera, AI/ML inženjerom i osnivačem zaduženim za poslovanje. Firma još nema proizvod ni prihode, pa projekat finansira anđeo investitor, sa 450.000 EUR za 18% udela.
+NovaKadar d.o.o. je novootvoreni startup iz Beograda sa četiri osnivača: dva programera, AI/ML inženjerom i osnivačem zaduženim za poslovanje. Firma još nema proizvod ni prihode, pa projekat finansira anđeo investitor, sa 450.000 € za 18% udela.
 
-KadarGlas je desktop aplikacija za Windows i macOS koja radi u pozadini i glasom upravlja programima koje korisnik već koristi: OBS Studiom za strim i DaVinci Resolveom i Premiere Proom za montažu. Radi na srpskom i engleskom jeziku. Osnovna verzija je besplatna, a Pro verzija košta 10 EUR mesečno. Projekat traje od 10.11.2026. do 26.11.2027, a javno lansiranje planirano je za 29.10.2027.
+KadarGlas je desktop aplikacija za Windows i macOS koja radi u pozadini i glasom upravlja programima koje korisnik već koristi: OBS Studiom za strim i DaVinci Resolveom i Premiere Proom za montažu. Radi na srpskom i engleskom jeziku. Osnovna verzija je besplatna, a Pro verzija košta 10 € mesečno. Projekat traje od 13.11.2026. do 26.11.2027, a javno lansiranje planirano je za 29.10.2027.
 
 *Napomena: kompanija NovaKadar i svi njeni interni podaci (osnivači, ankete, cene, troškovi) izmišljeni su za potrebe primera. Tržišni podaci su stvarni, a izvori su navedeni na kraju.*
 
@@ -31,22 +31,22 @@ Projekat ispunjava sva četiri finansijska kriterijuma koja smo dogovorili sa in
 
 ### Da li se projekat isplati?
 
-Za tri godine od lansiranja projekat donosi 1.002.600 EUR neto novčanog toka, uz ulaganje od 321.200 EUR. To je prinos na ulaganje (ROI) od 212%. Prva godina je u gubitku, jer korisnike tek treba privući, a od druge godine prihod pokriva troškove.
+Za tri godine od lansiranja projekat donosi 1.002.600 € neto novčanog toka, uz ulaganje od 321.200 €. To je prinos na ulaganje (ROI) od 212%. Prva godina je u gubitku, jer korisnike tek treba privući, a od druge godine prihod pokriva troškove.
 
 | Stavka modela                          | Godina 1 | Godina 2 | Godina 3  |
 | -------------------------------------- | -------- | -------- | --------- |
 | Aktivni besplatni korisnici (prosek)   | 50.000   | 120.000  | 220.000   |
 | Plaćeni korisnici Pro verzije (prosek) | 2.500    | 6.000    | 11.000    |
-| Prihod (EUR)                           | 300.000  | 720.000  | 1.320.000 |
-| Operativni troškovi (EUR)              | 378.600  | 437.400  | 521.400   |
-| Neto novčani tok (EUR)                 | −78.600  | 282.600  | 798.600   |
+| Prihod (€)                             | 300.000  | 720.000  | 1.320.000 |
+| Operativni troškovi (€)                | 378.600  | 437.400  | 521.400   |
+| Neto novčani tok (€)                   | −78.600  | 282.600  | 798.600   |
 
 Model polazi od sledećih pretpostavki:
 
 - prva godina počinje lansiranjem, 29.10.2027.
-- Pro verziju plaća 5% aktivnih korisnika, po 10 EUR mesečno (120 EUR godišnje, bez PDV-a)
-- fiksni trošak eksploatacije je 336.600 EUR godišnje, uglavnom za tim od osam ljudi
-- varijabilni trošak je 1,40 EUR po plaćenom korisniku mesečno. Od toga 0,90 EUR odlazi na servise za prepoznavanje govora i jezički model, a 0,50 EUR na naplatu (5% cene)
+- Pro verziju plaća 5% aktivnih korisnika, po 10 € mesečno (120 € godišnje, bez PDV-a)
+- fiksni trošak eksploatacije je 336.600 € godišnje, uglavnom za tim od osam ljudi
+- varijabilni trošak je 1,40 € po plaćenom korisniku mesečno. Od toga 0,90 € odlazi na servise za prepoznavanje govora i jezički model, a 0,50 € na naplatu (5% cene)
 - besplatni korisnici ne stvaraju trošak servisa, jer se njihove komande prepoznaju lokalno
 
 ### Tržište i konkurencija
@@ -59,29 +59,29 @@ Descript ima AI asistenta Underlord, a Adobe Premiere nudi pretragu snimaka prir
 
 Ispunjava sva četiri. Kriterijume smo postavili zajedno sa investitorom. Diskontna stopa od 15% je viša nego za postojeću firmu, jer je ulaganje u startup rizičnije.
 
-| Kriterijum                                     | Prag                    | Rezultat projekta                        | Ispunjen |
-| ---------------------------------------------- | ----------------------- | ---------------------------------------- | -------- |
-| NPV za 3 godine, diskontna stopa 15%           | veći od 0               | 349.200 EUR                              | Da       |
-| Interna stopa prinosa (IRR)                    | najmanje 30%            | 48,2%                                    | Da       |
-| Period povraćaja od lansiranja                 | najviše 36 meseci       | oko 26 meseci                            | Da       |
-| Investicija pokriva najveću potrebu za novcem  | uz rezervu od bar 10%   | potreba 399.800 EUR, rezerva 11%         | Da       |
+| Kriterijum                                    | Prag                  | Rezultat projekta              | Ispunjen |
+| --------------------------------------------- | --------------------- | ------------------------------ | -------- |
+| NPV za 3 godine, diskontna stopa 15%          | veći od 0             | 349.200 €                      | Da       |
+| Interna stopa prinosa (IRR)                   | najmanje 30%          | 48,2%                          | Da       |
+| Period povraćaja od lansiranja                | najviše 36 meseci     | oko 26 meseci                  | Da       |
+| Investicija pokriva najveću potrebu za novcem | uz rezervu od bar 10% | potreba 399.800 €, rezerva 11% | Da       |
 
 NPV smo izračunali uz diskontnu stopu od 15%:
 
-NPV = −321.200 − 78.600 / 1,15 + 282.600 / 1,15² + 798.600 / 1,15³ ≈ 349.200 EUR
+NPV = −321.200 − 78.600 / 1,15 + 282.600 / 1,15² + 798.600 / 1,15³ ≈ 349.200 €
 
-Posle dve godine ostaje nepokriveno još 117.200 EUR, a to treća godina pokrije za manje od dva meseca. Otuda period povraćaja od oko 26 meseci. Mesečni prihod prestiže troškove kada broj plaćenih korisnika pređe oko 3.300, što očekujemo početkom druge godine.
+Posle dve godine ostaje nepokriveno još 117.200 €, a to treća godina pokrije za manje od dva meseca. Otuda period povraćaja od oko 26 meseci. Mesečni prihod prestiže troškove kada broj plaćenih korisnika pređe oko 3.300, što očekujemo početkom druge godine.
 
 ### Možemo li da obezbedimo novac?
 
-Možemo, ali samo uz investitora, jer firma nema sopstveni novac ni prihode. Anđeo investitor ulaže 450.000 EUR za 18% udela, u dve tranše:
+Možemo, ali samo uz investitora, jer firma nema sopstveni novac ni prihode. Anđeo investitor ulaže 450.000 € za 18% udela, u dve tranše:
 
-- 250.000 EUR po potpisivanju ugovora, do 18.12.2026.
-- 200.000 EUR posle druge kontrolne tačke, 28.05.2027, ako beta za strim dostigne dogovorene ciljeve
+- 250.000 € po potpisivanju ugovora, do 18.12.2026.
+- 200.000 € posle druge kontrolne tačke, 28.05.2027, ako beta za strim dostigne dogovorene ciljeve
 
-Ulaganje u realizaciju iznosi 321.200 EUR. Od toga 192.000 EUR ide na rad tima, 100.000 EUR na usluge, opremu i marketing, a 29.200 EUR je rezerva za rizike (10%). Detaljan obračun nalazi se u tački 12 Nacrta projekta.
+Ulaganje u realizaciju iznosi 321.200 €. Od toga 192.000 € ide na rad tima, 100.000 € na usluge, opremu i marketing, a 29.200 € je rezerva za rizike (10%). Detaljan obračun nalazi se u tački 12 Nacrta projekta.
 
-Najveća potreba za novcem je na kraju prve godine posle lansiranja, kada se ulaganju doda i gubitak te godine, ukupno 399.800 EUR. Investicija to pokriva, uz 50.200 EUR rezerve.
+Najveća potreba za novcem je na kraju prve godine posle lansiranja, kada se ulaganju doda i gubitak te godine, ukupno 399.800 €. Investicija to pokriva, uz 50.200 € rezerve.
 
 ## 2. Tehnička izvodljivost (Technical)
 
@@ -99,16 +99,16 @@ Komanda prolazi kroz pet koraka:
 
 Osnovne veštine imamo, jer osnivači pokrivaju razvoj aplikacije, AI/ML i poslovanje. Ostalo dobijamo zapošljavanjem posle prve bete i angažovanjem spoljnih saradnika.
 
-| Potrebna veština                              | Stanje u timu                                      | Mera                                         |
-| --------------------------------------------- | -------------------------------------------------- | -------------------------------------------- |
-| Razvoj desktop aplikacije (Windows, macOS)    | Imamo: dva osnivača programera                     | Nije potrebna                                |
-| Prepoznavanje govora i jezički modeli         | Imamo: osnivač AI/ML inženjer                      | Nije potrebna                                |
-| Integracija sa OBS Studiom                    | Delimično: iskustvo sa obs-websocket API-jem       | Prototip u fazi 1                            |
-| Integracija sa DaVinci Resolveom i Premiere Proom | Nemamo                                         | Dva softverska inženjera od 01.06.2027.      |
-| Govorne tehnologije za srpski jezik           | Nemamo                                             | Eksterni konsultant, 30 radnih dana          |
-| Dizajn glasovnog interfejsa                   | Nemamo                                             | UX dizajner, honorarno                       |
-| Testiranje kvaliteta                          | Nemamo                                             | QA inženjer od 01.06.2027.                   |
-| Zaštita podataka i propisi o AI               | Nemamo                                             | Advokatska kancelarija                       |
+| Potrebna veština                                  | Stanje u timu                                | Mera                                    |
+| ------------------------------------------------- | -------------------------------------------- | --------------------------------------- |
+| Razvoj desktop aplikacije (Windows, macOS)        | Imamo: dva osnivača programera               | Nije potrebna                           |
+| Prepoznavanje govora i jezički modeli             | Imamo: osnivač AI/ML inženjer                | Nije potrebna                           |
+| Integracija sa OBS Studiom                        | Delimično: iskustvo sa obs-websocket API-jem | Prototip u fazi 1                       |
+| Integracija sa DaVinci Resolveom i Premiere Proom | Nemamo                                       | Dva softverska inženjera od 01.06.2027. |
+| Govorne tehnologije za srpski jezik               | Nemamo                                       | Eksterni konsultant, 30 radnih dana     |
+| Dizajn glasovnog interfejsa                       | Nemamo                                       | UX dizajner, honorarno                  |
+| Testiranje kvaliteta                              | Nemamo                                       | QA inženjer od 01.06.2027.              |
+| Zaštita podataka i propisi o AI                   | Nemamo                                       | Advokatska kancelarija                  |
 
 ### Da li je zaista moguće?
 
@@ -130,13 +130,13 @@ Pošto ne pravimo sopstveni editor, zavisimo od API-ja tuđih programa. Prototip
 
 Hoće. Za servise u oblaku postoje bar dva ponuđača i lokalna rezerva. Za programe kojima upravljamo rezerva su prečice na tastaturi.
 
-| Komponenta                         | Primarni izvor                                    | Rezerva                                                                |
-| ---------------------------------- | ------------------------------------------------- | ---------------------------------------------------------------------- |
-| Prepoznavanje govora               | Komercijalni STT servis sa strimovanjem           | Drugi ponuđač; lokalni otvoreni model                                  |
-| Jezički model                      | Komercijalni LLM API sa pozivanjem funkcija       | Drugi ponuđač preko istog sloja; lokalni mali model za osnovne komande |
-| Budna reč                          | Lokalni model otvorenog koda                      | Samo taster                                                            |
-| Upravljanje programima             | API-ji OBS Studija, DaVinci Resolvea, Premiere Proa | Prečice na tastaturi                                                 |
-| Naplata pretplate                  | Platni servis koji obračunava i PDV               | Drugi platni servis                                                    |
+| Komponenta             | Primarni izvor                                      | Rezerva                                                                |
+| ---------------------- | --------------------------------------------------- | ---------------------------------------------------------------------- |
+| Prepoznavanje govora   | Komercijalni STT servis sa strimovanjem             | Drugi ponuđač; lokalni otvoreni model                                  |
+| Jezički model          | Komercijalni LLM API sa pozivanjem funkcija         | Drugi ponuđač preko istog sloja; lokalni mali model za osnovne komande |
+| Budna reč              | Lokalni model otvorenog koda                        | Samo taster                                                            |
+| Upravljanje programima | API-ji OBS Studija, DaVinci Resolvea, Premiere Proa | Prečice na tastaturi                                                   |
+| Naplata pretplate      | Platni servis koji obračunava i PDV                 | Drugi platni servis                                                    |
 
 Cene prepoznavanja govora u realnom vremenu kreću se od 0,15 do 1,02 USD po satu zvuka ([AssemblyAI, poređenje ponuđača od 03.11.2026](https://assemblyai.com/blog/speech-to-text-api-pricing)). U fazi 1 treba utvrditi koji ponuđač podržava srpski jezik u realnom vremenu uz traženu tačnost.
 
@@ -154,16 +154,16 @@ Projekat vodi osnivač zadužen za poslovanje. Radimo u sprintovima od dve nedel
 
 Za prve dve faze imamo, jer MVP prave sami osnivači. Za režim montaže i lansiranje zapošljavamo još četiri osobe. Ukupno je potrebno 69 čovek-meseci rada.
 
-| Uloga                              | Broj ljudi | Angažovanje               | Izvor                 |
-| ---------------------------------- | ---------- | ------------------------- | --------------------- |
-| Direktor i menadžer projekta       | 1          | 100%, ceo projekat        | Osnivač               |
-| Softverski inženjer                | 2          | 100%, ceo projekat        | Osnivači              |
-| AI/ML inženjer za govor i jezik    | 1          | 100%, ceo projekat        | Osnivač               |
-| Softverski inženjer za integracije | 2          | 100%, od 01.06.2027.      | Zapošljavanje         |
-| QA inženjer                        | 1          | 100%, od 01.06.2027.      | Zapošljavanje         |
-| Podrška korisnicima i zajednica    | 1          | 100%, od 01.09.2027.      | Zapošljavanje         |
+| Uloga                              | Broj ljudi | Angažovanje          | Izvor         |
+| ---------------------------------- | ---------- | -------------------- | ------------- |
+| Direktor i menadžer projekta       | 1          | 100%, ceo projekat   | Osnivač       |
+| Softverski inženjer                | 2          | 100%, ceo projekat   | Osnivači      |
+| AI/ML inženjer za govor i jezik    | 1          | 100%, ceo projekat   | Osnivač       |
+| Softverski inženjer za integracije | 2          | 100%, od 01.06.2027. | Zapošljavanje |
+| QA inženjer                        | 1          | 100%, od 01.06.2027. | Zapošljavanje |
+| Podrška korisnicima i zajednica    | 1          | 100%, od 01.09.2027. | Zapošljavanje |
 
-Osnivači rade na sopstvenim računarima. Treba nabaviti računare za testiranje na Windowsu i macOS-u, različite mikrofone i opremu za testiranje zvuka, ukupno za 16.000 EUR. Kancelariju iznajmljujemo u coworking prostoru.
+Osnivači rade na sopstvenim računarima. Treba nabaviti računare za testiranje na Windowsu i macOS-u, različite mikrofone i opremu za testiranje zvuka, ukupno za 16.000 €. Kancelariju iznajmljujemo u coworking prostoru.
 
 ### Da li je to vrsta posla kojom se bavimo?
 
@@ -197,7 +197,7 @@ Nije. Asistent ne pravi sadržaj za publiku i govori samo kratke potvrde. Titlov
 
 ## 5. Operativna izvodljivost (Operational)
 
-Projektom možemo da upravljamo, a gotov proizvod održava tim od osam ljudi. Fiksni troškovi posle lansiranja iznose 336.600 EUR godišnje, a svaka kritična komponenta ima rezervu.
+Projektom možemo da upravljamo, a gotov proizvod održava tim od osam ljudi. Fiksni troškovi posle lansiranja iznose 336.600 € godišnje, a svaka kritična komponenta ima rezervu.
 
 ### Možemo li da upravljamo projektom?
 
@@ -207,16 +207,16 @@ Možemo. Upravni odbor projekta čine četiri osnivača i predstavnik investitor
 
 Možemo. Ceo tim ostaje na proizvodu i posle lansiranja, a njegov trošak je već uračunat u finansijski model.
 
-| Stavka eksploatacije                                  | Godišnje (EUR) |
-| ----------------------------------------------------- | -------------- |
-| Osnivači: 4 × 12 meseci × 2.500                       | 120.000        |
-| Softverski inženjeri: 2 × 12 meseci × 4.000           | 96.000         |
-| QA inženjer: 12 meseci × 3.000                        | 36.000         |
-| Podrška korisnicima: 12 meseci × 2.000                | 24.000         |
-| Infrastruktura, alati i nadzor                        | 18.000         |
-| Marketing                                             | 30.000         |
-| Kancelarija, knjigovodstvo i pravne usluge            | 12.600         |
-| Ukupno fiksno                                         | 336.600        |
+| Stavka eksploatacije                        | Godišnje (€) |
+| ------------------------------------------- | ------------ |
+| Osnivači: 4 × 12 meseci × 2.500             | 120.000      |
+| Softverski inženjeri: 2 × 12 meseci × 4.000 | 96.000       |
+| QA inženjer: 12 meseci × 3.000              | 36.000       |
+| Podrška korisnicima: 12 meseci × 2.000      | 24.000       |
+| Infrastruktura, alati i nadzor              | 18.000       |
+| Marketing                                   | 30.000       |
+| Kancelarija, knjigovodstvo i pravne usluge  | 12.600       |
+| Ukupno fiksno                               | 336.600      |
 
 Tim prati tačnost i brzinu odziva u produkciji i svaka tri meseca dodaje nove komande u katalog. Cilj je da servis u oblaku bude dostupan 99,5% vremena.
 
@@ -224,15 +224,15 @@ Tim prati tačnost i brzinu odziva u produkciji i svaka tri meseca dodaje nove k
 
 Imamo. Asistent je zamišljen tako da nikada nije jedini način da se nešto uradi, jer programi kojima upravlja rade i bez njega.
 
-| Šta može da otkaže         | Rezerva                                                                       |
-| -------------------------- | ----------------------------------------------------------------------------- |
+| Šta može da otkaže         | Rezerva                                                                          |
+| -------------------------- | -------------------------------------------------------------------------------- |
 | Glasovni asistent u celini | Korisnik nastavlja rad mišem i tastaturom; asistent se može daljinski isključiti |
-| STT servis                 | Automatski prelazak na drugog ponuđača ili lokalni model                      |
-| LLM servis                 | Lokalni model za 30 osnovnih komandi                                          |
-| API nekog programa         | Prečice na tastaturi dok se integracija ne popravi                            |
-| Internet kod korisnika     | Osnovne komande rade lokalno                                                  |
-| Ključni član tima          | Zamenik za svaku ulogu, rad u paru, dokumentacija                             |
-| Kod i test korpus          | Dnevna rezervna kopija na dve lokacije                                        |
+| STT servis                 | Automatski prelazak na drugog ponuđača ili lokalni model                         |
+| LLM servis                 | Lokalni model za 30 osnovnih komandi                                             |
+| API nekog programa         | Prečice na tastaturi dok se integracija ne popravi                               |
+| Internet kod korisnika     | Osnovne komande rade lokalno                                                     |
+| Ključni član tima          | Zamenik za svaku ulogu, rad u paru, dokumentacija                                |
+| Kod i test korpus          | Dnevna rezervna kopija na dve lokacije                                           |
 
 ## 6. Rizici (Risk)
 
@@ -259,7 +259,7 @@ Mere za svaki rizik detaljnije su opisane u tački 11 Nacrta projekta.
 
 ### Da li smo spremni da rizikujemo?
 
-Jesmo, jer se rizik preuzima postepeno. Do prve kontrolne tačke, 26.02.2027, potrošiće se oko 80.000 EUR, odnosno četvrtina ulaganja. Tada će prototip pokazati da li su tačnost i brzina dostižne, a upravni odbor odlučuje da li se projekat nastavlja, sužava ili obustavlja.
+Jesmo, jer se rizik preuzima postepeno. Do prve kontrolne tačke, 26.02.2027, potrošiće se oko 80.000 €, odnosno četvrtina ulaganja. Tada će prototip pokazati da li su tačnost i brzina dostižne, a upravni odbor odlučuje da li se projekat nastavlja, sužava ili obustavlja.
 
 Druga kontrolna tačka je kraj bete za strim, 28.05.2027. Tada investitor odlučuje o drugoj tranši, a mi o zapošljavanju i ceni Pro verzije.
 
@@ -267,13 +267,13 @@ Druga kontrolna tačka je kraj bete za strim, 28.05.2027. Tada investitor odluč
 
 Za investitora jeste, jer je to uobičajen rizik ulaganja u startup. Projekat izlazi na nulu kada ostvari 76% planiranog prihoda. U pesimističkom scenariju gubitak je veliki, a novac investitora ne bi bio dovoljan.
 
-| Scenario     | Obim prihoda u odnosu na plan | NPV za 3 godine (EUR) | Period povraćaja  |
-| ------------ | ----------------------------- | --------------------- | ----------------- |
-| Pesimistički | 60%                           | −226.400              | Duže od 36 meseci |
-| Osnovni      | 100%                          | +349.200              | Oko 26 meseci     |
-| Optimistički | 130%                          | +780.900              | Oko 20 meseci     |
+| Scenario     | Obim prihoda u odnosu na plan | NPV za 3 godine (€) | Period povraćaja  |
+| ------------ | ----------------------------- | ------------------- | ----------------- |
+| Pesimistički | 60%                           | −226.400            | Duže od 36 meseci |
+| Osnovni      | 100%                          | +349.200            | Oko 26 meseci     |
+| Optimistički | 130%                          | +780.900            | Oko 20 meseci     |
 
-U pesimističkom scenariju najveća potreba za novcem bila bi 503.000 EUR, više od uloženih 450.000 EUR. Zato smo unapred dogovorili meru: ako šest meseci posle lansiranja Pro verziju plaća manje od 1.500 korisnika, tim se smanjuje na osnivače i jednog inženjera, ili tražimo novu rundu ulaganja.
+U pesimističkom scenariju najveća potreba za novcem bila bi 503.000 €, više od uloženih 450.000 €. Zato smo unapred dogovorili meru: ako šest meseci posle lansiranja Pro verziju plaća manje od 1.500 korisnika, tim se smanjuje na osnivače i jednog inženjera, ili tražimo novu rundu ulaganja.
 
 ## Zaključak i preporuka
 
@@ -287,7 +287,7 @@ Sledeći korak je odobrenje Nacrta projekta, koji je priložen uz ovu studiju.
 
 ## Izvori
 
-Tržišni podaci i cenovnici preuzeti su 10.11.2026.
+Tržišni podaci i cenovnici preuzeti su 13.11.2026.
 
 - [Vidpros: statistika softvera za video montažu 2026](https://vidpros.com/video-editing-software-statistics/), prenosi procenu Mordor Intelligence
 - [360iResearch: Live Streaming Software Market, prognoza 2026–2032](https://www.giiresearch.com/report/ires2012198-live-streaming-software-market-by-component.html)
