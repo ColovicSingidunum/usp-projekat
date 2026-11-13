@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 230" font-family="Carlito, Calibri, sans-serif">
+<text x="62" y="12" font-size="10" fill="#5e5a78" text-anchor="end">€</text>
+<line x1="70" y1="20" x2="630.5" y2="20" stroke="#e4e1f0"/>
+<text x="62" y="24" font-size="10" fill="#5e5a78" text-anchor="end">900.000</text>
+<line x1="70" y1="54" x2="630.5" y2="54" stroke="#e4e1f0"/>
+<text x="62" y="58" font-size="10" fill="#5e5a78" text-anchor="end">600.000</text>
+<line x1="70" y1="88" x2="630.5" y2="88" stroke="#e4e1f0"/>
+<text x="62" y="92" font-size="10" fill="#5e5a78" text-anchor="end">300.000</text>
+<line x1="70" y1="122" x2="630.5" y2="122" stroke="#9a93bd"/>
+<text x="62" y="126" font-size="10" fill="#5e5a78" text-anchor="end">0</text>
+<line x1="70" y1="156" x2="630.5" y2="156" stroke="#e4e1f0"/>
+<text x="62" y="160" font-size="10" fill="#5e5a78" text-anchor="end">−300.000</text>
+<line x1="70" y1="190" x2="630.5" y2="190" stroke="#e4e1f0"/>
+<text x="62" y="194" font-size="10" fill="#5e5a78" text-anchor="end">−600.000</text>
+<text x="70" y="208" font-size="10" fill="#5e5a78" text-anchor="start">lansiranje</text>
+<text x="256.8" y="208" font-size="10" fill="#5e5a78" text-anchor="middle">kraj 1. godine</text>
+<text x="443.6" y="208" font-size="10" fill="#5e5a78" text-anchor="middle">kraj 2. godine</text>
+<text x="630.5" y="208" font-size="10" fill="#5e5a78" text-anchor="end">kraj 3. godine</text>
+<line x1="70" y1="173" x2="630.5" y2="173" stroke="#d92d3a" stroke-dasharray="4 3"/>
+<text x="630.5" y="186" font-size="10" fill="#5e5a78" text-anchor="end">ulog investitora: 450.000 €</text>
+<polyline points="70,158.4 256.8,167.3 443.6,135.3 630.5,44.8" fill="none" stroke="#5b3fd6" stroke-width="2"/>
+<circle cx="70" cy="158.4" r="3" fill="#5b3fd6" stroke="#fff" stroke-width="2"/>
+<circle cx="256.8" cy="167.3" r="3" fill="#5b3fd6" stroke="#fff" stroke-width="2"/>
+<circle cx="443.6" cy="135.3" r="3" fill="#5b3fd6" stroke="#fff" stroke-width="2"/>
+<circle cx="630.5" cy="44.8" r="3" fill="#5b3fd6" stroke="#fff" stroke-width="2"/>
+<circle cx="471" cy="122" r="4" fill="#fff" stroke="#17132b" stroke-width="2"/>
+<text x="461" y="112" font-size="10" fill="#17132b" text-anchor="end">povraćaj ulaganja, oko 26. meseca</text>
+<text x="80" y="148.4" font-size="10" fill="#17132b">−321.200 (ulaganje)</text>
+<text x="256.8" y="186.3" font-size="10" fill="#17132b" text-anchor="middle">−399.800 (najveća potreba za novcem)</text>
+<text x="622.5" y="34.8" font-size="10" fill="#17132b" text-anchor="end">+681.400</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 315 227" font-family="Carlito, Calibri, sans-serif">
+<line x1="62" y1="16" x2="305" y2="16" stroke="#e4e1f0"/>
+<text x="56" y="20" font-size="10" fill="#5e5a78" text-anchor="end">800.000</text>
+<line x1="62" y1="70.3" x2="305" y2="70.3" stroke="#e4e1f0"/>
+<text x="56" y="74.3" font-size="10" fill="#5e5a78" text-anchor="end">400.000</text>
+<line x1="62" y1="124.6" x2="305" y2="124.6" stroke="#9a93bd"/>
+<text x="56" y="128.6" font-size="10" fill="#5e5a78" text-anchor="end">0</text>
+<line x1="62" y1="178.9" x2="305" y2="178.9" stroke="#e4e1f0"/>
+<text x="56" y="182.9" font-size="10" fill="#5e5a78" text-anchor="end">−400.000</text>
+<rect x="79.5" y="124.6" width="46" height="30.7" rx="3" fill="#d92d3a"/>
+<text x="102.5" y="169.3" font-size="10" fill="#17132b" text-anchor="middle" font-weight="bold">−226.400</text>
+<text x="102.5" y="197" font-size="11" fill="#17132b" text-anchor="middle">Pesimistički</text>
+<text x="102.5" y="210" font-size="10" fill="#5e5a78" text-anchor="middle">60% plana</text>
+<rect x="160.5" y="77.2" width="46" height="47.4" rx="3" fill="#5b3fd6"/>
+<text x="183.5" y="71.2" font-size="10" fill="#17132b" text-anchor="middle" font-weight="bold">+349.200</text>
+<text x="183.5" y="197" font-size="11" fill="#17132b" text-anchor="middle">Osnovni</text>
+<text x="183.5" y="210" font-size="10" fill="#5e5a78" text-anchor="middle">100% plana</text>
+<rect x="241.5" y="18.6" width="46" height="106" rx="3" fill="#5b3fd6"/>
+<text x="264.5" y="12.6" font-size="10" fill="#17132b" text-anchor="middle" font-weight="bold">+780.900</text>
+<text x="264.5" y="197" font-size="11" fill="#17132b" text-anchor="middle">Optimistički</text>
+<text x="264.5" y="210" font-size="10" fill="#5e5a78" text-anchor="middle">130% plana</text>
+</svg>
