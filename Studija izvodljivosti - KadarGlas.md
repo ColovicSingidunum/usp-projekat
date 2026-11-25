@@ -2,13 +2,13 @@
 
 AI glasovni asistent za video montažu i striming uživo
 
-NovaKadar d.o.o., Beograd, 13.11.2026.
+NovaKadar d.o.o., Novi Sad, 13.11.2026.
 
 ## Sažetak
 
 Predlažemo da se projekat pokrene, uz kontrolnu tačku posle prve faze. Ulaganje od 321.200 € trebalo bi da se vrati za oko 26 meseci od lansiranja, a neto sadašnja vrednost (NPV) za tri godine iznosi oko 349.200 €.
 
-NovaKadar d.o.o. je novootvoreni startup iz Beograda sa četiri osnivača: dva programera, AI/ML inženjerom i osnivačem zaduženim za poslovanje. Firma još nema proizvod ni prihode, pa projekat finansira anđeo investitor, sa 450.000 € za 18% udela.
+NovaKadar d.o.o. je novootvoreni startup iz Novog Sada sa četiri osnivača: dva programera, AI/ML inženjerom i osnivačem zaduženim za poslovanje. Firma još nema proizvod ni prihode, pa projekat finansira anđeo investitor, sa 450.000 € za 18% udela.
 
 KadarGlas je desktop aplikacija za Windows i macOS koja radi u pozadini i glasom upravlja programima koje korisnik već koristi: OBS Studiom za strim i DaVinci Resolveom i Premiere Proom za montažu. Radi na srpskom i engleskom jeziku. Osnovna verzija je besplatna, a Pro verzija košta 10 € mesečno. Projekat traje od 13.11.2026. do 26.11.2027, a javno lansiranje planirano je za 29.10.2027.
 
