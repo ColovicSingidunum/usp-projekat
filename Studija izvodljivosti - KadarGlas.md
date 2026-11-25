@@ -183,7 +183,7 @@ Jeste, uz mere iz tabele. Najosetljivija je privatnost, jer je glas podatak o li
 
 | Pitanje             | Rizik                                      | Mera                                                                                                             |
 | ------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| Privatnost glasa    | Snimanje ljudi koji nisu dali pristanak    | Slušanje samo na taster ili budnu reč; zvuk se briše posle obrade; jasna oznaka kada asistent sluša              |
+| Privatnost glasa    | Snimanje ljudi koji nisu dali pristanak    | Slušanje samo na taster ili budnu reč; zvuk se ne čuva; jasna oznaka kada asistent sluša                       |
 | Obuka modela        | Korišćenje snimaka korisnika bez pristanka | Podaci služe za poboljšanje samo uz izričit pristanak, koji se može povući                                       |
 | Transparentnost     | Korisnik ne zna šta je AI uradio           | Svaka radnja je vidljiva u istoriji komandi i može se poništiti                                                  |
 | Jednak kvalitet     | Slabija tačnost za neke govornike          | Test korpus pokriva ekavicu i ijekavicu, muške i ženske glasove i različite akcente; tačnost se prati po grupama |
