@@ -184,7 +184,7 @@ Jeste, uz mere iz tabele. Najosetljivija je privatnost, jer je glas podatak o li
 | Pitanje             | Rizik                                      | Mera                                                                                                             |
 | ------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
 | Privatnost glasa    | Snimanje ljudi koji nisu dali pristanak    | Slušanje samo na taster ili budnu reč; zvuk se ne čuva; jasna oznaka kada asistent sluša                       |
-| Obuka modela        | Korišćenje snimaka korisnika bez pristanka | Podaci služe za poboljšanje samo uz izričit pristanak, koji se može povući                                       |
+| Obuka modela        | Korišćenje podataka korisnika bez pristanka | Zvuk se ne čuva, pa se ne koristi za obuku; uz izričit pristanak, koji se može povući, za poboljšanje se koristi samo tekst komandi; dobavljačima STT i LLM servisa ugovorom je zabranjena obuka na podacima korisnika |
 | Transparentnost     | Korisnik ne zna šta je AI uradio           | Svaka radnja je vidljiva u istoriji komandi i može se poništiti                                                  |
 | Jednak kvalitet     | Slabija tačnost za neke govornike          | Test korpus pokriva ekavicu i ijekavicu, muške i ženske glasove i različite akcente; tačnost se prati po grupama |
 | Uticaj na montažere | Strah da AI zamenjuje ljude                | Asistent izvršava komande, a kreativne odluke ostaju korisniku                                                   |
