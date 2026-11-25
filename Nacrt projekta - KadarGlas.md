@@ -97,7 +97,7 @@ Pošto firma tek počinje da radi, projekat većinu procesa uspostavlja, a ne me
 | Proces                            | Uticaj                                                                                                  |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | Razvoj proizvoda                  | Uvodi se razvoj u sprintovima, pregled koda i automatski testovi integracija sa OBS-om i editorima.     |
-| Testiranje kvaliteta              | Nova vrsta testa: tačnost i brzina na govornom korpusu, uz ponavljanje pri svakoj novoj verziji.        |
+| Testiranje kvaliteta              | Tačnost i brzina na govornom korpusu, uz ponavljanje pri svakoj novoj verziji.                          |
 | Podrška korisnicima               | Uspostavlja se podrška na srpskom i engleskom, baza znanja i zajednica korisnika na Discordu.           |
 | Prodaja i naplata                 | Uvodi se pretplata preko platnog servisa, probni period Pro verzije od 30 dana i obračun PDV-a.         |
 | Marketing                         | Kampanja lansiranja, saradnja sa kreatorima sadržaja i prisustvo u zajednicama strimera.                |
