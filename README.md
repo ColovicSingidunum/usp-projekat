@@ -7,7 +7,7 @@ Projektna dokumentacija za predmet USP, Tim 1.
 **[Projektni plan](https://github.com/users/ColovicSingidunum/projects/1)** · **[UX prototip (Figma)](https://www.figma.com/design/5AInjB3XUXvALfkLAOAPZ9/KadarGlas-%E2%80%93-UX-prototip)** · **[Verzije](https://github.com/ColovicSingidunum/usp-projekat/tags)**
 
 ## Ukratko
-
+|                  |                                                   |
 | ---------------- | ------------------------------------------------- |
 | Trajanje         | 13.11.2026 – 26.11.2027.                          |
 | Javno lansiranje | 29.10.2027.                                       |
