@@ -8,7 +8,6 @@ Projektna dokumentacija za predmet USP, Tim 1.
 
 ## Ukratko
 
-|                  |                                                   |
 | ---------------- | ------------------------------------------------- |
 | Trajanje         | 13.11.2026 – 26.11.2027.                          |
 | Javno lansiranje | 29.10.2027.                                       |
